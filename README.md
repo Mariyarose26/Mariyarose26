@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariya Rose Panikulam</h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h3 align="center">A passionate Backend Developer from Australia</h3>
 
 <h4 align="center">👨‍💻 All of my projects are available at https://github.com/Mariyarose26</h4>
 
